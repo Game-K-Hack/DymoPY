@@ -1,0 +1,12 @@
+default:
+  printer: DYMO LabelWriter 450 Trubo
+  labelFile: 
+  scanDossier: 
+gui:
+  sizeEntry: 15
+  sizeEntryPath: 54
+config:
+  profilePath: 
+  startTextBalise: <Text>
+  endTextBalise: </Text>
+  searchExtention: .etk
